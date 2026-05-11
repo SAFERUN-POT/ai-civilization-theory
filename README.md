@@ -3,7 +3,7 @@ Agriculture
 → Industry
 → Information
 → AI Civilization
-ai_civilization_2026,AI Civilization Coordination Theory，2026
+# ai_civilization_2026,AI Civilization Coordination Theory，2026
 V0.1
 # AI Civilization Coordination Theory
 
