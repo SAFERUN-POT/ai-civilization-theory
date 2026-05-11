@@ -5,6 +5,53 @@ Agriculture
 → AI Civilization
 ai_civilization_2026,AI Civilization Coordination Theory，2026
 V0.1
+# AI Civilization Coordination Theory
+
+## Subtitle
+
+From Financial Synchronization
+to Civilization-scale Coordination
+
+---
+
+## Abstract
+
+This paper proposes...
+
+---
+
+## Core Thesis
+
+Human civilization evolved through coordination optimization.
+
+Agricultural civilization coordinated land.
+Industrial civilization coordinated energy.
+Information civilization coordinated information.
+AI civilization coordinates intelligence itself.
+
+---
+
+## Key Concepts
+
+- Proof of Task (PoT)
+- Production Synchronization
+- Distributed Intelligence
+- Civilization Operating System
+- Planetary Coordination
+- Recursive Intelligence Acceleration
+
+---
+
+## Paper
+
+[Read Full Paper](paper/paper.pdf)
+
+---
+
+## License
+
+MIT / CC BY 4.0
+
 # Abstract ｜ 摘要
 
 | English | 繁體中文 |
